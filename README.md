@@ -21,7 +21,7 @@ This portfolio represents my creativity, coding discipline, and love for innovat
 ## 🌟 Live Demo
 
 🎯 **Check out the live portfolio:**
-👉 View at <a href="http://127.0.0.1:3000/index.html">here</a>
+👉 View at <a href="https://ram77-code.github.io/Portfolio-2/">here</a>
 
 
 ## 🧩 Features
